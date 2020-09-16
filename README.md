@@ -7,4 +7,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * 01 objektno orijentisano programiranje.doc
   * klasa Kvadrat.doc
 - 16.09.2020 (1 cas)
-  Nastavljamo rad od proslog casa. U Visual Studio kreirati projekat uz pomoc fajla Klasa Kvadrat
+  * Nastavljamo rad od proslog casa.
+  * Uploadovala sam fajl "02 upotreba postojecih klasa"

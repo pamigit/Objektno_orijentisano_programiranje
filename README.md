@@ -12,3 +12,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 17.09.2020 (1 cas) - cetvrtak
   * Nastavljamo sa radom iz skripte "01 objektno orijentisano programiranje"
   * Kreirati klasu Oblik i podklase Pravougaonik i Elipsa, iscrtavati naizmenicno u Formi Pravougaonik i Elipsu na Click event
+- 18.09.2020 (2 casa) - petak
+  * Pocinjemo da obradjujemo skriptu "02 upotreba postojecih klasa"

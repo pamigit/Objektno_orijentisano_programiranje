@@ -17,3 +17,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Pojasnjenja za Visual C# i OOP mozete naci na linku: 
     1. http://www.edusoft.math.rs/csharp/Verzija2010/index9.html (srpska verzija)
     2. https://www.guru99.com/c-sharp-tutorial.html (eng verzija) - na ovom linku se mogu naci i ostali tutorijali
+- 23.09.2020 (1 cas) - sreda
+  * Dodala fajl "03 modelovanje" koju cemo obraditi na casu

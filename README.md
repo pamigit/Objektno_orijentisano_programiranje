@@ -19,3 +19,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
     2. https://www.guru99.com/c-sharp-tutorial.html (eng verzija) - na ovom linku se mogu naci i ostali tutorijali
 - 23.09.2020 (1 cas) - sreda
   * Dodala fajl "03 modelovanje" koju cemo obraditi na casu
+  * Dodala fajl "Objektno orijentisano programiranje - osnove" koja ce vam sluziti kao podsetnik najosnovnijih pojmova u oop-u

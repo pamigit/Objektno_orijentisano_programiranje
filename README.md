@@ -20,3 +20,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 23.09.2020 (1 cas) - sreda
   * Dodala fajl "03 modelovanje" koju cemo obraditi na casu
   * Dodala fajl "Objektno orijentisano programiranje - osnove" koja ce vam sluziti kao podsetnik najosnovnijih pojmova u oop-u
+  * Problem 1 je ostavljen za aktivnost na casu, ko uspe da zavrsi app imace mogucnost za dobijanje odlicne ocene (rok je 25.09.2020)
+- 24.09.2020 (1 cas) - cetvrtak
+  * Zavrsavali sa obradom skripte "03 modelovanje"
+  

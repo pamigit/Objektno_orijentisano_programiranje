@@ -23,4 +23,9 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Problem 1 je ostavljen za aktivnost na casu, ko uspe da zavrsi app imace mogucnost za dobijanje odlicne ocene (rok je 25.09.2020)
 - 24.09.2020 (1 cas) - cetvrtak
   * Zavrsavali sa obradom skripte "03 modelovanje"
+- 25.09.2020 (2 casa) - petak
+  * Resavali su problemski zadatak: 
+    - Kreirati app za prodavnicu u kojoj mozemo da uredimo sve proizvode rastuce ili opadajuce po cenama.
+  * Dodala fajl "04 definicija klase" u kojoj se nalazi resenje nase app
+  * Zadnji problemski zadatak u tom fajlu "Proslava" je sledeci zadatak za resavanje (rok je 30.09.2020)
   

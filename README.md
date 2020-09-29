@@ -28,4 +28,8 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
     - Kreirati app za prodavnicu u kojoj mozemo da uredimo sve proizvode rastuce ili opadajuce po cenama.
   * Dodala fajl "04 definicija klase" u kojoj se nalazi resenje nase app
   * Zadnji problemski zadatak u tom fajlu "Proslava" je sledeci zadatak za resavanje (rok je 30.09.2020)
+- 30.09.2020 (1 cas) - sreda
+  * Proveriti da li je neko uradio problemski zadatak "Proslava"
+  * Odraditi ostale primere iz fajla "04 definicija klase"
+  * Razgovarati o Svojstvima u c#
   

@@ -31,5 +31,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 30.09.2020 (1 cas) - sreda
   * Proveriti da li je neko uradio problemski zadatak "Proslava"
   * Odraditi ostale primere iz fajla "04 definicija klase"
-  * Razgovarati o Svojstvima u c#
+  * Razgovarati o Svojstvima u C#
   

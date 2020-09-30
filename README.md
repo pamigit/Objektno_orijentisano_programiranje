@@ -33,6 +33,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Odraditi ostale primere iz fajla "04 definicija klase"
   * Razgovarati o Svojstvima u C#
 - 01.10.2020 (1 cas) - cetvrtak
-  * Odraditi ostale primere iz skripte "04 definicija klase" i primeniti svojstva umesto atributa
+  * Odraditi ostale primere iz skripte "04 definicija klase" i primeniti svojstva u datim klasama
   * Proveriti da li je neko odradio problemski zadatak "Proslava" (rok je produzen do 02.10.2020)
   

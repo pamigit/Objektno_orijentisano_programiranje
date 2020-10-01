@@ -35,4 +35,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 01.10.2020 (1 cas) - cetvrtak
   * Odraditi ostale primere iz skripte "04 definicija klase" i primeniti svojstva u datim klasama
   * Proveriti da li je neko odradio problemski zadatak "Proslava" (rok je produzen do 02.10.2020)
-  
+- 02.10.2020 (2 casa) - petak
+  * Dodala fajl "05 nasledjivanje" koju cemo obraditi na casu
+  * Proveriti da li je neko odradio problemski zadatak "Proslava" ako nije niko produziti rok do 07.10.2020

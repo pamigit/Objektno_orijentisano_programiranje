@@ -38,3 +38,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 02.10.2020 (2 casa) - petak
   * Dodala fajl "05 nasledjivanje" koju cemo obraditi na casu
   * Proveriti da li je neko odradio problemski zadatak "Proslava" ako nije niko produziti rok do 07.10.2020
+- 07.10.2020 (1 cas) - sreda
+  * Proveriti resenja za projekat "Proslava" i diskutovati o resenjima
+  * Diskutovati o zadatku "Klasa Kvadrat"

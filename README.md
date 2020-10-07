@@ -41,3 +41,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 07.10.2020 (1 cas) - sreda
   * Proveriti resenja za projekat "Proslava" i diskutovati o resenjima
   * Diskutovati o zadatku "Klasa Kvadrat"
+  * Poceo je upis za mlade talente https://cmt.edu.rs/2020/10/03/poceo-je-upis-za-skolsku-2020-2021-godinu/

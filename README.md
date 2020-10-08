@@ -42,3 +42,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Proveriti resenja za projekat "Proslava" i diskutovati o resenjima
   * Diskutovati o zadatku "Klasa Kvadrat"
   * Poceo je upis za mlade talente https://cmt.edu.rs/2020/10/03/poceo-je-upis-za-skolsku-2020-2021-godinu/
+- 09.10.2020 (2 casa) - petak
+  * Dati usmeno zadatak ucenicima koji odgovaraju putem zadatka koji ce dobiti na casu
+    - Smernice za zadatak: upotreba klase StreamReader, koriscenje Svojstva, i upotreba Exceptiona

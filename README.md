@@ -45,3 +45,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 09.10.2020 (2 casa) - petak
   * Dati usmeno zadatak ucenicima koji odgovaraju putem zadatka koji ce dobiti na casu
     - Smernice za zadatak: upotreba klase StreamReader, koriscenje Svojstva, i upotreba Exceptiona
+    - Folder sa zadatkom zipovati i poslati na email pamizoki@gmail.com
+  * Ucenici koji ne rade zadatak za ocenu, radice zadatak "klase_Primerak_Knjiga_Casopis_postavka" koji sam upload-ovala

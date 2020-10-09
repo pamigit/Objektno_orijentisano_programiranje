@@ -47,3 +47,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
     - Smernice za zadatak: upotreba klase StreamReader, koriscenje Svojstva, i upotreba Exceptiona
     - Folder sa zadatkom zipovati i poslati na email pamizoki@gmail.com
   * Ucenici koji ne rade zadatak za ocenu, radice zadatak "klase_Primerak_Knjiga_Casopis_postavka" koji sam upload-ovala
+  * Upload-ovala sam fajl "klase Primerak Knjiga Casopis" koji predstavlja resenje naseg zadatka sa casa

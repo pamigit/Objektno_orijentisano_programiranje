@@ -48,3 +48,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
     - Folder sa zadatkom zipovati i poslati na email pamizoki@gmail.com
   * Ucenici koji ne rade zadatak za ocenu, radice zadatak "klase_Primerak_Knjiga_Casopis_postavka" koji sam upload-ovala
   * Upload-ovala sam fajl "klase Primerak Knjiga Casopis" koji predstavlja resenje naseg zadatka sa casa
+  * Upload-ovala sam fajl "klasa Kurs" koja predstavlja resenje naseg zadatka sa usmenog odgovaranja (resenje zadatka ZADATAK_usmeni_09_10_2020)

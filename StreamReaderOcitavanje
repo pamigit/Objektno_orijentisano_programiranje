@@ -1,0 +1,7 @@
+                while (!f.EndOfStream)
+                {
+                    string naziv = f.ReadLine();
+                    int cena = Convert.ToInt32(f.ReadLine());
+                    k[n] = new Kurs(naziv, cena);
+                    n++;
+                }

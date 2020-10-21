@@ -53,3 +53,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Upload-ovala sam zadatak "klasa TV" koji ucenici treba da rade za vezbu na casu
 - 15.10.2020 (1 cas) - cetvrtak
   * Uploadovala sam zadatak "klasa TV", dodala sam resenje zadatka (code) koji je za vezbu
+- 21.10.2020 (1 cas) - sreda
+  * Vezbali za test koji ce se odrzati 23.10.2020
+    - Test ce biti iz teorije: fajlovi od 01 - 05 (uz teorijsko pitanje potrebno je napisati i primer)

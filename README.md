@@ -60,3 +60,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Uploadovala fajl "klasa Udzbenik" koju ce ucenici da rade na casu
 - 30.10.2020 (2 casa) - petak
   * uploadovala fajl "klasa Balon" koju ce ucenici da rade na casu
+- 04.11.2020 (1 cas) - sreda
+  * uploadovala fajl "klasa Kuglica" koji predstavlja zadatak za rad na casu
+  * ko zeli moze da odgovara da popravi ocenu

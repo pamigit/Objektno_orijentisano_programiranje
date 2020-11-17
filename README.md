@@ -63,3 +63,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 04.11.2020 (1 cas) - sreda
   * uploadovala fajl "klasa Kuglica" koji predstavlja zadatak za rad na casu
   * ko zeli moze da odgovara da popravi ocenu
+- 18.11.2020 (1 cas) - sreda P
+  * uploadovala fajl "klasa BB-8" koji cemo raditi na casu

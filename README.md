@@ -65,3 +65,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * ko zeli moze da odgovara da popravi ocenu
 - 18.11.2020 (1 cas) - sreda P
   * uploadovala fajl "klasa BB-8" koji cemo raditi na casu
+- 20.11.2020 (2 casa) - petak V
+  * uploadovala fajl "klasa Class1" koji cemo raditi na casu

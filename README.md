@@ -67,5 +67,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * uploadovala fajl "klasa BB-8" koji cemo raditi na casu
 - 20.11.2020 (2 casa) - petak V
   * uploadovala fajl "klasa Class1" koji cemo raditi na casu
-- 25.11.2020 (2 casa) - sreda P
+- 25.11.2020 (1 casa) - sreda P
   * uploadovala fajl "klasa Jelka" za rad na casu
+- 27.11.2020 (2 casa) - petak V
+  * uploadovala fajl "klasa Lajk" za rad na casu
